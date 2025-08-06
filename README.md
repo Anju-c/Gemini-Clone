@@ -1,1 +1,3 @@
 # Gemini-Clone
+
+Gemini Clone is a full-stack AI chat application built using React for the frontend and Express.js for the backend, designed to replicate the conversational experience of Google's Gemini (formerly Bard). It integrates the latest Gemini API versions, including Gemini 1.5 Flash for fast, lightweight responses and Gemini 1.5 Pro for more advanced reasoning capabilities. Users can interact with different model variants through a clean and responsive interface, toggle between versions, and receive streamed real-time replies. The project showcases dynamic API routing, real-time communication, and full-stack integration, making it a strong demonstration of building scalable AI-assisted web applications using modern tools.
