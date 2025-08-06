@@ -22,7 +22,7 @@ app.post("/chat",(req,res)=>{
  
     },{
         headers:{
-            "x-goog-api-key":"AIzaSyDZqwifJhkGn814boaFkLhCcZO-u45iRto"
+            "x-goog-api-key":"secret"
         }
     }).then(response=>{
         const ans=response.data.candidates[0].content.parts[0].text
